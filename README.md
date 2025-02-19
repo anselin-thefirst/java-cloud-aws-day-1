@@ -124,3 +124,12 @@ json
 
 1. **Access the Static Site:**
    - After configuring static website hosting, note the "Bucket website endpoint" URL provided in the static website hosting section.
+
+
+## Submission notes
+
+Issues with the backend so instead made s3 bucket and frontend work by pointing react app to davesothertodos environment:
+
+![alt text] (<errors.png>)
+![alt text] (<more-errors.png>)
+![alt text] (<bucket.png>)
